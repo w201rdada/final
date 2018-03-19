@@ -1,4 +1,4 @@
 #!/bin/bash
 
-R --quiet -e "install.packages('bookdown','data.table')"
+R --quiet -e "install.packages('bookdown','data.table','DiagrammeR')"
 
