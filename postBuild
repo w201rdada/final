@@ -1,0 +1,4 @@
+#!/bin/bash
+
+R --quiet -e "install.packages('bookdown','data.table')"
+
