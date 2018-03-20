@@ -1,4 +1,0 @@
-#!/bin/bash
-
-R --quiet -e "install.packages(c('DiagrammeR'))"
-#R --quiet -e "install.packages(c('bookdown','data.table','DiagrammeR'))"
