@@ -1,3 +1,4 @@
 #! /bin/bash
 
-rm -rf install.R runtime.txt R postBuild
+rm -rf install.R runtime.txt
+# R postBuild
