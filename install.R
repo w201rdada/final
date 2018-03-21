@@ -1,1 +1,2 @@
-install.packages(c("tidyverse","bookdown","data.table","DiagrammeR"))
+install.packages(c("DiagrammeR"))
+# "tidyverse","bookdown","data.table",
